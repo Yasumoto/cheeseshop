@@ -3,6 +3,8 @@ cheeseshop
 
 Hosts transitional python dependencies not yet released to pypi
 
+Commits should be made to the gh-pages branch.
+
 pants
 -----
 
